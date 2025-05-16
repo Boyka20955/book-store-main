@@ -1,5 +1,3 @@
-➡[View live site]](https://book-store-ten-steel.vercel.app/)
-
 
 # Booken - Get Your New Book Collections
 
